@@ -14,6 +14,7 @@ public class CheckEvenodd {
 			if(i%2==1) 
 			{
 				System.out.println("\t" + i);
+				System.out.println("ganesh");
 	      	}
 			i++;
 	}
